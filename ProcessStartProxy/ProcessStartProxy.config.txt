@@ -1,0 +1,13 @@
+﻿{
+	"Comment": "実行させるファイルのディレクトリ ￥マークは￥￥（半角で）とすること。",
+	"FileName": "D:\\Test.exe",
+
+	"Comment": "実行させるファイルに渡すコマンドライン引数",
+	"Arguments": "unko tinko manko",
+
+	"Comment": "実行させるプログラムの作業フォルダ",
+	"WorkingDirectory": "D:\\", 
+
+	"Comment": "trueにすると、実行したプログラムの終了を待機する。falseにすると、プログラムの実行後即座に終了する。",
+	"WaitForExit": false
+}
